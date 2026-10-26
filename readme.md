@@ -1,1 +1,1 @@
-<h1 align="center">Hi 👋, I'm Vimbing</h1>
+<h1 align="center">I'm just sitting here, vimbing</h1>
